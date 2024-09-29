@@ -31,5 +31,3 @@ To run this project locally:
    ```bash
    https://codewith-smr.github.io/Leap-Year-Checker/
 
-
-   This project is maintained by Muhammad Raza under the banner of CodeWithSMR. Feel free to contribute or report issues!
